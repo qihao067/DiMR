@@ -3,15 +3,15 @@
 
 ______
 
-![DiMR](https://github.com/qihao067/DiMR/tree/main/imgs/DiMR.jpeg)
+![DiMR](https://github.com/qihao067/DiMR/blob/main/imgs/DiMR.jpeg)
 
 We propose DiMR, a new diffusion backbone that achieves state-of-the-art image generation. For example, on the ImageNet 256 x 256 benchmark, **DiMR, with only 505M parameters, surpasses all existing image generation models of various sizes**, without any bells and whistles.
 
-![DiMR](https://github.com/qihao067/DiMR/tree/main/imgs/256_all.jpeg)
+![DiMR](https://github.com/qihao067/DiMR/blob/main/imgs/256_all.jpeg)
 
 In addition, with the proposed Multi-Resolution Network, DiMR alleviates distortions and enhances visual fidelity without increasing computational costs.
 
-![DiMR](https://github.com/qihao067/DiMR/tree/main/imgs/DiMR-distortion_projectpage.jpg)
+![DiMR](https://github.com/qihao067/DiMR/blob/main/imgs/DiMR-distortion_projectpage.jpg)
 
 ______
 
