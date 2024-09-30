@@ -57,7 +57,7 @@ Download the `stable-diffusion` directory from this [link](https://drive.google.
 
 **Step 2: Prepare ImageNet:**
 
-Download the original ImageNet dataset and extract its features using `scripts/extract_imagenet_feature.py`. Make sure you also update the path of the extracted features in the config file (configs/DiMR-G-2R_imagenet256.py or configs/DiMR-XL-2R_imagenet256.py).
+Download the original ImageNet dataset and extract its features using `scripts/extract_imagenet_feature.py`. Make sure you also update the path of the extracted features in the config file (`configs/DiMR-G-2R_imagenet256.py` or `configs/DiMR-XL-2R_imagenet256.py`).
 
 **Step 3: Prepare reference statistics for FID**
 
@@ -130,10 +130,10 @@ ______
 If you use our work in your research, please use the following BibTeX entry.
 
 ```
-@inproceedings{liu2024alleviating,
+@article{liu2024alleviating,
   title={Alleviating Distortion in Image Generation via Multi-Resolution Diffusion Models},
   author={Liu, Qihao and Zeng, Zhanpeng and He, Ju and Yu, Qihang and Shen, Xiaohui and Chen, Liang-Chieh},
-  booktitle={NeurIPS},
+  journal={arXiv preprint arXiv:2406.09416},
   year={2024}
 }
 ```
